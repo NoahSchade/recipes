@@ -1,0 +1,36 @@
+body {
+	box-sizing: border-box;
+	font-family: 'Raleway', sans-serif;
+	background-color: lightgoldenrodyellow;
+}
+
+h1 {
+	text-align: center;
+}
+
+.all {
+	display: block;
+	position: relative;
+	font-size: 24px;
+	font-weight: bold;
+	list-style-type: none;
+	background-color: turquoise;
+	text-align: center;
+	margin: 15px 20%;
+	padding: 0;
+}
+
+.meat {
+	background-color: lightblue;
+	color: black;
+}
+
+.veggies {
+	background-color: lightgreen;
+	color: black;
+}
+
+.other {
+	background-color: darkkhaki;
+	color: white;
+}
